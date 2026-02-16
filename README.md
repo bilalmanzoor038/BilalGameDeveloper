@@ -3,7 +3,7 @@
 Welcome to my personal game development portfolio website.  
 This website showcases my projects, skills, and experience as a game developer.
 
-🌐 Live Website: https://github.com/bilalmanzoor038/BilalGameDeveloper
+🌐 Live Website: https://bilalmanzoor038.github.io/BilalGameDeveloper/
 📧 Email: Bilalmanzoor038@gmail.com  
 
 ---
